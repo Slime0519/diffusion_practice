@@ -306,3 +306,4 @@ runs
 *.pt
 diffusion_clone/lightning_logs
 .idea
+wandb_log/
